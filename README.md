@@ -1,6 +1,6 @@
 # MNUM_Project_1
 
-Copyright (C) Pawel Masluch, 2021. All rights reserved.
+Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
 Projekt 1 (układy równań liniowych) z przedmiotu MNUM - Metody Numeryczne.
 
